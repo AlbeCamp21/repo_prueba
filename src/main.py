@@ -78,3 +78,4 @@ Hotfix 1 aplicado
 Hotfix 2 aplicado
 >>>>>>> .merge_file_WsZRUz
 # BUG: función incorrecta
+# BUG: funcion incorrecta
