@@ -72,3 +72,9 @@ def main():
 if __name__ == "__main__":
     main()
 Implementación de feature-1
+<<<<<<< .merge_file_MQJXrW
+Hotfix 1 aplicado
+=======
+Hotfix 2 aplicado
+>>>>>>> .merge_file_WsZRUz
+# BUG: función incorrecta
